@@ -8,6 +8,7 @@
     "@mui/material": "^6.3.1",
     "chart.js": "^4.4.7",
     "cra-template": "1.2.0",
+    "gh-pages": "^6.3.0",
     "papaparse": "^5.5.1",
     "react": "^18.0.0",
     "react-chartjs-2": "^5.3.0",
@@ -16,11 +17,14 @@
     "sentiment": "^5.0.2",
     "web-vitals": "^4.2.4"
   },
+  "homepage": "https://redballsy.github.io/app-for-sentiment-analysis", 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
