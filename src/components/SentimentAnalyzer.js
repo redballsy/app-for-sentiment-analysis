@@ -79,7 +79,7 @@ function SentimentAnalyzer() {
             <input type="file" hidden accept=".csv" onChange={handleFileUpload} />
           </Button>
            <Typography variant="h5" align="center" gutterBottom>
-        The file uploads must be in csv file and must contain a coloumn called review.
+        The file uploads must be in csv file and must contain a column called review.
       </Typography>
         </Grid>
         <Grid item xs={12} md={6}>
