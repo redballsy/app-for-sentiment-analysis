@@ -79,7 +79,7 @@ function SentimentAnalyzer() {
             <input type="file" hidden accept=".csv" onChange={handleFileUpload} />
           </Button>
            <Typography variant="h1" align="center" gutterBottom>
-        NB: le fichier csv doit contenir une colonne appellé review
+        NB: le fichier csv doit contenir une colonne appellée review.
       </Typography>
         </Grid>
         <Grid item xs={12} md={6}>
