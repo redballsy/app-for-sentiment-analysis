@@ -78,7 +78,7 @@ function SentimentAnalyzer() {
             Upload CSV
             <input type="file" hidden accept=".csv" onChange={handleFileUpload} />
           </Button>
-           <Typography variant="h1" align="center" gutterBottom>
+           <Typography variant="h5" align="center" gutterBottom>
         NB: le fichier csv doit contenir une colonne appellée review.
       </Typography>
         </Grid>
