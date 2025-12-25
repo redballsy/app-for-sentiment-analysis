@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/app-for-sentiment-analysis/static/css/main.f855e6bc.css",
-    "main.js": "/app-for-sentiment-analysis/static/js/main.1173e95e.js",
+    "main.js": "/app-for-sentiment-analysis/static/js/main.2cb6f89a.js",
     "static/js/488.cd5d5635.chunk.js": "/app-for-sentiment-analysis/static/js/488.cd5d5635.chunk.js",
     "static/media/logo.svg": "/app-for-sentiment-analysis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/app-for-sentiment-analysis/index.html",
     "main.f855e6bc.css.map": "/app-for-sentiment-analysis/static/css/main.f855e6bc.css.map",
-    "main.1173e95e.js.map": "/app-for-sentiment-analysis/static/js/main.1173e95e.js.map",
+    "main.2cb6f89a.js.map": "/app-for-sentiment-analysis/static/js/main.2cb6f89a.js.map",
     "488.cd5d5635.chunk.js.map": "/app-for-sentiment-analysis/static/js/488.cd5d5635.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1173e95e.js"
+    "static/js/main.2cb6f89a.js"
   ]
 }
